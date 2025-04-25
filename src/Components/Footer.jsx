@@ -27,7 +27,7 @@ const Footer = () => {
         </Link>
         &nbsp;|&nbsp;
         <Link
-          href="https://www.linkedin.com/in/priyanka-kola"
+          href="https://www.linkedin.com/in/priyanka-kola-352634223/"
           target="_blank"
           rel="noopener"
           underline="hover"

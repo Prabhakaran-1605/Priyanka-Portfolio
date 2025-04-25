@@ -59,7 +59,7 @@ const Contact = () => {
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
             <LinkedInIcon sx={{ color: '#0a66c2' }} />
             <Link
-              href="https://www.linkedin.com/in/priyanka-kola"
+              href="https://www.linkedin.com/in/priyanka-kola-352634223/"
               target="_blank"
               rel="noopener noreferrer"
               underline="hover"
